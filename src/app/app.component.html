@@ -1,3 +1,29 @@
-<h1>
-  {{title}}
-</h1>
+<div>
+    <div class="col-md-3 text-center nav-tab">
+        <div class="nav-intro">
+            <h1>I'm Guruh Hapsara</h1>
+        </div>
+        <div class="nav-web title">
+            <a routerLink="/about"><h3>about</h3></a>
+            <a routerLink="/project"><h3>projects</h3></a>
+            <a href="http://ghapsara.azurewebsites.net/Home/Blog"><h3>blog</h3></a>
+        </div>
+        <div class="nav-contact">
+            <p>
+                <span>
+            <a href="mailto:guruhhapsara@gmail.com"><img src="app/assets/contact.mail.png" class="contact-icon"></a>
+            <a href="https://www.facebook.com/guruhhapsara"><img src="app/assets/contact.facebook.png" class="contact-icon"></a>
+            <a href="https://www.twitter.com/guruhhapsara"><img src="app/assets/contact.twitter.png" class="contact-icon"></a>
+            <a href="https://www.github.com/guruh19"><img src="app/assets/contact.github.png" class="contact-icon"></a>
+        </span>
+            </p>
+        </div>
+        <div class="footer-copyright">
+            ©2016 Guruh Hapsara.
+            <br> All rights reserved.
+        </div>
+    </div>
+    <div class="col-md-9">
+        <router-outlet></router-outlet>
+    </div>
+</div>

@@ -1,0 +1,9 @@
+<div class="project-tab">    
+    <h1 class="title">Selected Projects</h1>
+    <ul class="projects list-inline">
+        <li *ngFor="let project of projects" [class.selected]="project === selectedProject" (click)="onSelect(project)">
+            <h5>{{project.title}}</h5>            
+        </li>
+    </ul>
+</div>
+<my-project-detail [project]="selectedProject"></my-project-detail>

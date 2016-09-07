@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+.absolute-center {
+  margin: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15.4px;
+  line-height: 28px;
+}
+
+.title {
+  font-family: 'Josefin Sans', sans-serif;  
+}

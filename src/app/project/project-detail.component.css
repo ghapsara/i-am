@@ -1,0 +1,20 @@
+.img-project{
+    height: 400px;    
+}
+.project-detail-btn:hover, .project-detail-btn:focus, .project-detail-btn:active, .project-detail-btn.active, .open > .dropdown-toggle.project-detail-btn {
+    background: none;
+    border: 2px solid #218380;
+    color: #218380;
+}
+.project-detail-btn {
+  background: #218380;    
+  color: #fff;   
+  text-decoration: none;
+  border: none;
+  height: 45px;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 30px;
+  border-radius: 30px;
+  text-anchor: middle;
+  padding-top: 10px;
+}

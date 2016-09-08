@@ -5,11 +5,11 @@ import { Observable } from 'rxjs/Rx';
 
 @Injectable()
 export class ProjectService {
-  
-  private url = "../app/data/projects/projects.json";
+    
+  private url = "../assets/my-projects.json";
 
   constructor(private http: Http) { }
-
+  
   getAll(): Observable<Project[]> {
     return this.http.get(this.url)
       .map(response => <Project[]>response.json())

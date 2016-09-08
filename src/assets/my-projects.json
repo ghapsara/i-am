@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Termosocial",
+        "image": "https://lh3.googleusercontent.com/gdgxR2Ec6FXuADcIKJnXTVijfs1Euid7u0anGDKwZ539WvC2iADZY81ryM10fL8fI2YNkBifqsMsyew=w1366-h659",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rhoncus velit et egestas scelerisque. Etiam facilisis turpis nisi, ut varius nulla venenatis at. Integer tellus velit, dictum non purus interdum, elementum gravida lectus. Curabitur eu fermentum ex. Proin tortor diam, finibus a velit vitae, vehicula vehicula massa. Morbi vel tortor fermentum, mattis orci vel, semper neque. Donec orci leo, laoreet rhoncus gravida eget, malesuada eu arcu. Quisque vitae felis et nulla varius hendrerit.",
+        "link": "https://github.com/guruh19/TermoSocial"
+    },
+    {
+        "title": "Bottective",
+        "image": "https://lh6.googleusercontent.com/fGfwHJCMmc9MtoFwX4d2zPGaVNqJo4kP3OVLq1JQeN9CKaDfLbUD9albknyRdFjkwDQm4T7Vc8cxjM8=w1366-h659",
+        "description": "Donec hendrerit diam venenatis justo sollicitudin efficitur. Phasellus ut tincidunt est. Proin hendrerit mauris a metus venenatis vulputate. Nam non velit sagittis, iaculis odio dignissim, rutrum orci. In semper, orci eget pellentesque molestie, metus massa semper arcu, non sollicitudin libero erat ut nulla.",
+        "link": "https://www.microsoft.com/en-us/store/p/bottective/9nblggh4vlpx"
+    },
+    {
+        "title": "9puluh",
+        "image": "https://lh4.googleusercontent.com/bq9S7HKTWrU487yeIhHEr0AJI_lJNcJsqk6H6_b4uIR7SINrph97MY9hGMU2nk3PNBHjtjTEad-JxRY=w1366-h659",
+        "description": "Aliquam in velit imperdiet, efficitur sem vel, ullamcorper velit. Sed eleifend, dui vel finibus rhoncus, lacus quam tempus diam, non tincidunt velit ante ut tellus. Pellentesque accumsan mollis ullamcorper. Aliquam sit amet laoreet est. Nam sit amet augue et lacus vehicula venenatis ut at arcu.",
+        "link": "https://www.microsoft.com/en-us/store/p/9puluh/9nblggh2jvvv"
+    }
+]

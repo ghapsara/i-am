@@ -3,11 +3,12 @@
 }
 .project-detail-btn:hover, .project-detail-btn:focus, .project-detail-btn:active, .project-detail-btn.active, .open > .dropdown-toggle.project-detail-btn {
     background: none;
-    border: 2px solid #218380;
-    color: #218380;
+    border: 2px solid #607D8B;
+    color: #607D8B;
+    padding-top:10px; 
 }
 .project-detail-btn {
-  background: #218380;    
+  background: #607D8B;    
   color: #fff;   
   text-decoration: none;
   border: none;
@@ -16,5 +17,5 @@
   -webkit-border-radius: 30px;
   border-radius: 30px;
   text-anchor: middle;
-  padding-top: 10px;
+  padding-top: 12px;
 }

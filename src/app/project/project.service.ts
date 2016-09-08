@@ -6,7 +6,7 @@ import { Observable } from 'rxjs/Rx';
 @Injectable()
 export class ProjectService {
     
-  private url = "./assets/my-projects.json";
+  private url = "./assets/data/my-projects.json";
 
   constructor(private http: Http) { }
   

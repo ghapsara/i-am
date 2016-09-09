@@ -2,19 +2,19 @@
     {
         "title": "Termosocial",
         "image": "assets/data/Termosocial.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rhoncus velit et egestas scelerisque. Etiam facilisis turpis nisi, ut varius nulla venenatis at. Integer tellus velit, dictum non purus interdum, elementum gravida lectus. Curabitur eu fermentum ex. Proin tortor diam, finibus a velit vitae, vehicula vehicula massa. Morbi vel tortor fermentum, mattis orci vel, semper neque. Donec orci leo, laoreet rhoncus gravida eget, malesuada eu arcu. Quisque vitae felis et nulla varius hendrerit.",
+        "description": "Curios about your activity in social media? which facebook post that really engage your audience, how many retweet that you've got, how many people view your YouTube video, which your Instagram post that goes viral on your follower comments. Termosocial wants to solve these problems. Termosocial is a web-dashboard app that gives summary of your activity on Facebook, Twitter, YouTube, and Instagram. It is still on a development stage and Voila I made it open source on GitHub. Wanna contribute?",
         "link": "https://github.com/guruh19/TermoSocial"
     },
     {
         "title": "Bottective",
         "image": "assets/data/Bottective.jpg",
-        "description": "Donec hendrerit diam venenatis justo sollicitudin efficitur. Phasellus ut tincidunt est. Proin hendrerit mauris a metus venenatis vulputate. Nam non velit sagittis, iaculis odio dignissim, rutrum orci. In semper, orci eget pellentesque molestie, metus massa semper arcu, non sollicitudin libero erat ut nulla.",
+        "description": "2016 is the year of Bot. Facebook announced their Bot for messenger which allows conversation between human and bot at f8 conference, Microsoft also launched their Bot framework too at Build 2016, Elon musk using Bot to do Mars exploration, and so on. But lets trying to have some fun the Bot. I developed a photo recognation app using Bot from Microsoft Vision API. This is Bottective trying to beat sherlock holmes deducing people from their twitter profile photo. Give a try, it's fun.",
         "link": "https://www.microsoft.com/en-us/store/p/bottective/9nblggh4vlpx"
     },
     {
         "title": "9puluh",
         "image": "assets/data/9puluh.jpg",
-        "description": "Aliquam in velit imperdiet, efficitur sem vel, ullamcorper velit. Sed eleifend, dui vel finibus rhoncus, lacus quam tempus diam, non tincidunt velit ante ut tellus. Pellentesque accumsan mollis ullamcorper. Aliquam sit amet laoreet est. Nam sit amet augue et lacus vehicula venenatis ut at arcu.",
+        "description": "9puluh is a music streaming app which gives 90's music playlist. This idea came up when i was thinking about 90's things, is that cool if I can go back to 90's and enjoy all the things. I talked it to my friends, They also wanted it too. Then I found a simple idea, what about brought 90's music back. So I dediced to develop an app that could stream 90's music playlist from soundcloud.",
         "link": "https://www.microsoft.com/en-us/store/p/9puluh/9nblggh2jvvv"
     }
 ]
